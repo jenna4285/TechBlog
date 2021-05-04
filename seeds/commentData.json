@@ -1,0 +1,38 @@
+[
+    {
+    "comment":
+    "Branches with pink apricot blossoms against a blue background.",
+    "comment_created": "May 1, 2021",
+    "blog_id": 1,
+    "comment_author_userID": 1,
+    "comment_author_username": "Sal"     
+    },
+    {
+    "comment": "Pink cosmos flowers against a blue sky.",
+    "comment_created": "May 1, 2021",
+    "blog_id": 2,
+    "comment_author_userID": 1,
+    "comment_author_username": "Sal"      
+    },
+    {
+     "comment": "Two beach chairs under a beach umbrella on the beach.",
+     "comment_created": "May 1, 2021",
+     "blog_id": 3,
+     "comment_author_userID": 2,
+     "comment_author_username": "Lernantino"       
+    },
+    {
+    "comment": "Two beach chairs under a beach umbrella on the beach.",
+    "comment_created": "May 1, 2021",
+    "blog_id": 3,
+    "comment_author_userID": 2,
+    "comment_author_username": "Lernantino"       
+    },
+    {
+    "comment": "Sun setting in the horizon with waves lapping the shore.",
+    "comment_created": "May 1, 2021",
+    "blog_id": 4,
+    "comment_author_userID": 3,
+    "comment_author_username": "Amiko"       
+    }
+  ]

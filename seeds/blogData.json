@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML Blog",
+      "contents": "HTML is a thing and I have a lot to say about it!",
+      "date_created": "April 2, 2021 07:00:00",
+      "author_userID": 1,
+      "author_username": "Sal"
+    },
+    {
+      "title": "CSS Blog",
+      "contents": "CSS is a thing and I have a lot to say about it!",
+      "date_created": "April 4, 2021 07:00:00",
+      "author_userID": 3,
+      "author_username": "Amiko"
+    },
+    {
+      "title": "Javascript Blog",
+      "contents": "Javascript is so diverse I wrote all of these things about it in a blog post",
+      "date_created": "April 7, 2021 13:00:00",
+      "author_userID": 1,
+      "author_username": "Sal"
+    },
+    {
+      "title": "Back End Blog",
+      "contents": "Back End is the stuff you do not see but makes things work!",
+      "date_created": "April 20, 2021 07:00:00",
+      "author_userID": "1",
+      "author_username": "Sal"
+    }
+  ]
